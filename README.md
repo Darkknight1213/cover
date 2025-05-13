@@ -33,7 +33,7 @@ Publish the website in the LocalHost.
 ## PROGRAM:
 
 cover.html
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,7 +65,7 @@ cover.html
 </html>
 ```
 cover.css
-```
+```css
 *{
     margin: 0;
     padding: 0;
